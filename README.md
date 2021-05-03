@@ -20,6 +20,6 @@ We're specifically looking for the following information:
 - **Specific steps to reproduce the issue**
 - Browser and version
 - Operating system
-- Screehsnot/video
+- Screenshot/video
 - Was there any error displayed? (Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux) and focus on the Console and Network tabs)
 
