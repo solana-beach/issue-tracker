@@ -1,25 +1,5 @@
-Issue tracker - Solana Beach
-===========================================
+# <img src="https://github.com/solana-beach/api/blob/main/solanabeach.svg" height="70px"> Solana Beach Issue Tracker
+Hi, thanks for the initiative to report a bug. Before creating an issue please make sure it hasn't already been reported.
+Further please provide user specific information (i.e. browser for website users or full http request for API users) so we can reproduce the bug.
 
-Hello and welcome! Thank you for using [Solana Beach](https://solanabeach.io)  
-To keep things nice and clear, please follow these simple guidelines:
-
-#### How do I report bugs?
-
-1. Register for a github account or login to yours. 
-2. Head over to the [Issues](https://github.com/solana-beach/issue-tracker/issues) tab
-3. **Make sure your problem has NOT been reported yet**
-4. Either create a new issue, or contribute to the thread **already existing for the issue**. 
-
-#### What should I include in my report?
-
-One bug per issue please! Don't create lists of bugs in one issue.  
-The more information, the better. Basically: try to help as much as you can in identifying and fixing the problem.  
-We're specifically looking for the following information:
-
-- **Specific steps to reproduce the issue**
-- Browser and version
-- Operating system
-- Screenshot/video
-- Was there any error displayed? (Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux) and focus on the Console and Network tabs)
-
+If you don't have a GitHub account you can also join our [Telegram Group](https://t.me/+UW04VHylcMdlZmUy) and report there or send an email to admin@cryptotech-munich.com.
